@@ -28,3 +28,5 @@ help(CPS85)
 ```
 
 
+(c) Rob Kabacoff, 2019.
+
