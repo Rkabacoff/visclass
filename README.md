@@ -5,7 +5,7 @@
 <!-- badges: end -->
 
 ggplot2 contains a power language for creating visualizations in R.
-Course slides and R code is provided above.
+Course slides and R code are provided above.
 
 ## Resources
 
