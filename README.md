@@ -28,5 +28,5 @@ help(CPS85)
 ```
 
 
-(c) Rob Kabacoff, 2019.
+&copy; Rob Kabacoff, 2019.
 
