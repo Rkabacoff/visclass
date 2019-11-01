@@ -29,5 +29,5 @@ help(CPS85)
 ```
 
 
-&copy; Rob Kabacoff, 2019. Allrights reserved.
+&copy; Rob Kabacoff, 2019. All rights reserved.
 
