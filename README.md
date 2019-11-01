@@ -5,8 +5,9 @@
 <!-- badges: end -->
 
 ggplot2 contains a power language for creating visualizations in R.
+Course slides and R code is provided above.
 
-## Support
+## Resources
 
 - Data visualization with R (ebook) - http://rkabacoff.github.io/datavis
 - Quick R - http://statmethods.net
