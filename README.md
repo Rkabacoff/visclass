@@ -1,3 +1,4 @@
+![graphs](graphs.jpg)
 # ggplot2 class
 
 <!-- badges: start -->
