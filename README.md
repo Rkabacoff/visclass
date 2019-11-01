@@ -11,6 +11,7 @@ Course slides and R code is provided above.
 
 - Data visualization with R (ebook) - http://rkabacoff.github.io/datavis
 - Quick R - http://statmethods.net
+- Wesleyan Quantitative Analysis Center - http://qac.wesleyan.edu
 
 
 ### Practice Data
