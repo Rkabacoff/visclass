@@ -5,13 +5,13 @@
 <!-- badges: end -->
 
 ggplot2 contains a power language for creating visualizations in R.
-Course slides and R code is provided above.
+Course slides and R code are provided above.
 
 ## Resources
 
 - Data visualization with R (ebook) - http://rkabacoff.github.io/datavis
 - Quick R - http://statmethods.net
-- Quantitative Analysis Center at Wesleyan Univerisity - http://qac.wesleyan.edu
+- Quantitative Analysis Center, Wesleyan University - http://qac.wesleyan.edu
 
 
 ### Practice Data
@@ -29,5 +29,5 @@ help(CPS85)
 ```
 
 
-&copy; Rob Kabacoff, 2019.
+&copy; Rob Kabacoff, 2019. All rights reserved.
 
